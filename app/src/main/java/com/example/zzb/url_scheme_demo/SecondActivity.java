@@ -18,6 +18,7 @@ import android.widget.Toast;
 public class SecondActivity extends AppCompatActivity {
     TextView textView;
     Button btn;
+    //测试master 1
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
